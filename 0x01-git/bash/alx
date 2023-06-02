@@ -1,2 +1,23 @@
-#!/bin/bash
-echo "ALX School is so cool!"
+
+
+
+Task 3: 
+
+git branch update_script
+git branch -a (this is to see the list of your branches, the branch you are in will appear in green color)
+
+to leave the branch, do this: 
+
+git checkout update_script
+git branch -a 
+ls
+cd bash
+touch 98 
+vi alx 
+i
+* delete echo "ALX" and replace it with, echo "ALX School" 
+ESC
+:wq
+vi school
+i
+* delete echo "School" and replace it wit
